@@ -1,0 +1,13 @@
+#-----------------------------------------------------------
+# Vivado v2022.1 (64-bit)
+# SW Build 3526262 on Mon Apr 18 15:48:16 MDT 2022
+# IP Build 3524634 on Mon Apr 18 20:55:01 MDT 2022
+# Start of session at: Thu Dec 29 00:53:15 2022
+# Process ID: 20704
+# Current directory: C:/Users/vishwajeet/Temp_Sensor_I2C/Temp_Sensor_I2C.runs/synth_1
+# Command line: vivado.exe -log top.vds -product Vivado -mode batch -messageDb vivado.pb -notrace -source top.tcl
+# Log file: C:/Users/vishwajeet/Temp_Sensor_I2C/Temp_Sensor_I2C.runs/synth_1/top.vds
+# Journal file: C:/Users/vishwajeet/Temp_Sensor_I2C/Temp_Sensor_I2C.runs/synth_1\vivado.jou
+# Running On: DESKTOP-SJTLRAL, OS: Windows, CPU Frequency: 2196 MHz, CPU Physical cores: 4, Host memory: 11753 MB
+#-----------------------------------------------------------
+source top.tcl -notrace
