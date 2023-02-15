@@ -1,5 +1,5 @@
 # temperature-measuring-instrument-using-fpga
-2C stands for Inter-Integrated Circuit. It is a bus interface connection protocol incorporated into devices for serial communication. It was originally designed by Philips Semiconductor in 1982. Recently, it is a widely used protocol for short-distance communication. It is also known as Two Wired Interface (TWI).
+I2C stands for Inter-Integrated Circuit. It is a bus interface connection protocol incorporated into devices for serial communication. It was originally designed by Philips Semiconductor in 1982. Recently, it is a widely used protocol for short-distance communication. It is also known as Two Wired Interface (TWI).
 Working of communication protocol I2C
 It uses only 2 bi-directional open-drain lines for data communication called SDA and SCL. Both these lines are pulled high.
 Serial Data (SDA) – Transfer of data takes place through this pin.
